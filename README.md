@@ -7,9 +7,9 @@
 > * Processing incomplete sentences and predicting what was going to be written afterwards
 
 #### Syllabus
-> ##### [Module 1 - Introduction to TensorFlow](Module\ 1\ -\ Introduction\ to\ TensorFlow)
->> * [Introduction to Tensorflow](Module\ 1\ -\ Introduction\ to\ TensorFlow/Introduction\ to\ TensorFlow.md)
->> * [Tensorflow's Hello World](Module\ 1\ -\ Introduction\ to\ TensorFlow/Tensorflow's\ Hello\ World.ipynb)
+> ##### [Module 1 - Introduction to TensorFlow](Module-1)
+>> * [Introduction to Tensorflow](Module-1/Introduction-to-TensorFlow.md)
+>> * [Tensorflow's Hello World](/Module-1/Tensorflow's-Hello-World.ipynb)
 >> * Linear Regression with TensorFlow
 >> * NonLinear Regression
 >> * Logistic Regression
