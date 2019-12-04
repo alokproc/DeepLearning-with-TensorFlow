@@ -52,7 +52,7 @@ ___
 __Computation Graph Ingredients__
 ![Computation graph ingredients](Images/computation_graph_ingredients.png)
 
-As we already know, _nodes_ are called __operations__, which represents the units of computation. And, _edges_ are __tensors__ which represen the data consumed or produced by an operation.
+As we already know, _nodes_ are called __operations__, which represents the units of computation. And, _edges_ are __tensors__ which represents the data consumed or produced by an operation.
 
 In the figure above, __Feature Matrix__ is a placeholder. Place Holders can be seen as __"holes"__ in your model -- __"holes"__ through which you can pass the data from outside of the graph. 
 
