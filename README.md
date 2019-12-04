@@ -10,7 +10,7 @@
 > ##### [Module 1 - Introduction to TensorFlow](Module-1)
 >> * [Introduction to Tensorflow](Module-1/Introduction-to-TensorFlow.md)
 >> * [Tensorflow's Hello World](/Module-1/Tensorflow's-Hello-World.ipynb)
->> * Linear Regression with TensorFlow
+>> * [Linear Regression with TensorFlow](/Module-1/Linear-regression-with-Tensorflow.ipynb)
 >> * NonLinear Regression
 >> * Logistic Regression
 >> * Activation Functions
