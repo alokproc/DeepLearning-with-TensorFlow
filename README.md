@@ -13,7 +13,7 @@
 >> * [Linear Regression with TensorFlow](/Module-1/Linear-regression-with-Tensorflow.ipynb)
 >> * NonLinear Regression
 >> * [Logistic Regression](/Module-1/Logistic-regression-with-Tensorflow.ipynb)
->> * Activation Functions
+>> * [Activation Functions](/Module-1/Activation-functions.ipynb)
 
 > ##### Module 2 - Convolutional Networks
 >> * Introduction to Convolutional Networks
