@@ -12,7 +12,7 @@
 >> * [Tensorflow's Hello World](/Module-1/Tensorflow's-Hello-World.ipynb)
 >> * [Linear Regression with TensorFlow](/Module-1/Linear-regression-with-Tensorflow.ipynb)
 >> * NonLinear Regression
->> * Logistic Regression
+>> * [Logistic Regression](/Module-1/Logistic-regression-with-Tensorflow.ipynb)
 >> * Activation Functions
 
 > ##### Module 2 - Convolutional Networks
